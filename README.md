@@ -7,5 +7,6 @@ it is not yet encrypted and the passwords are stored in a .txt file in the asset
 when the setup button is clicked.
 
 Use:
+First unpack the folder
 When you first load up the program type in the master password and username you will have to run the setup function
 then close the program and open again boom then its ready for use.
